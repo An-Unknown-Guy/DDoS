@@ -17,7 +17,6 @@ os.system("clear")
 os.system("figlet AnUnknownGuy")
 print
 print "Author : An Unknown Guy"
-print "Discord : An Unknown Guy#0353"
 print "GitHub : https://github.com/An-Unknown-Guy"
 print
 host=raw_input( "Enter Website: " )
