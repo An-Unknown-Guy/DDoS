@@ -19,7 +19,7 @@ print
 print "Author : An Unknown Guy"
 print "GitHub : https://github.com/An-Unknown-Guy"
 print
-host=raw_input( "Enter Website: " )
+host=raw_input( "Enter Website Or IP: " )
 port=input( "Port: " )
 message=raw_input( "Message To Send: " )
 conn=input( "Attack(s) Number(s): " )
